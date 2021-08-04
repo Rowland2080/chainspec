@@ -55,6 +55,10 @@
           [
             "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8",
             100000000000000000000000
+          ],
+          [
+            "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+            100000000000000000000000
           ]
         ]
       },
@@ -102,7 +106,14 @@
             "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8",
             1000000000000000,
             "Validator"
+          ],
+          [
+            "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+            "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+            1000000000000000,
+            "Validator"
           ]
+
         ],
         "minNominatorBond": 0,
         "minValidatorBond": 0
@@ -168,7 +179,18 @@
               "im_online": "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8",
               "authority_discovery": "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8"
             }
+          ],
+          [
+            "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+            "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+            {
+              "grandpa": "5DqmMdSqgJQDQb6fV28cycnBY2Y7hhspKuxzS5Whv3wEaFnH",
+              "babe": "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+              "im_online": "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+              "authority_discovery": "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v"
+            }
           ]
+
         ]
       },
       "democracy": {
@@ -186,7 +208,8 @@
           "5FvfvLt3CaCSsFSV7XK6sQJa1x63eKFyxGwHcHYXM6Kt8s81",
           "5Ehugt1rCtG2BXjCKeuHyDP29M3q1FC5tvTwwXhEspU2zYWQ",
           "5FFYNa67TiarLAKEfLiNzRnpTfxpANne2M5YVvnJxJ9SPMqy",
-          "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8"
+          "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8",
+          "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v"
         ]
       },
       "elections": {
@@ -214,7 +237,12 @@
           [
             "5GspH1NKmfsQaDkhdMterDV5AMsU5MkM7yefMcNw1Ww94Dv8",
             1000000000000000
+          ],
+          [
+            "5FnPBCmnnTMWhQiLB3XNKrtNMse88btbLk2Rts6AVRu2A75v",
+            1000000000000000
           ]
+
         ]
       },
       "technicalMembership": {
